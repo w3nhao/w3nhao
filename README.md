@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 -->
 
 
-![Wenhao's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=w3nhao&theme=xcode)
-
+<p align="center">
+  <a href="https://github.com/w3nhao">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=w3nhao" alt="Wenhao's WakaTime stats">
+  </a>
+</p>
 
 <details>
   <summary><b>Click to view language stats</b></summary>
