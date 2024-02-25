@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning about how to enable Deep Learning Models to explore the external world, feel free to reach me if you also like the idea.
 - 📫 How to reach me: wenhao.deng@foxmal.com
 
-
 <!--
 **w3nhao/w3nhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <p align="center">
   <a href="https://github.com/w3nhao">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=w3nhao" alt="Wenhao's WakaTime stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=w3nhao&theme=transparent" alt="Wenhao's WakaTime stats">
   </a>
 </p>
 
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
   <summary><b>Click to view language stats</b></summary>
   <p align="center">
     <a href="https://github.com/w3nhao">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3nhao&layout=compact" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3nhao&layout=compact&theme=transparent" alt="Top Languages">
     </a>
   </p>
 </details>
@@ -40,7 +38,8 @@ Here are some ideas to get you started:
     <summary><b>Click to view stats</b></summary>
   <p align="center">
     <a href="https://github.com/w3nhao">
-      <img src="https://github-readme-stats.vercel.app/api?username=w3nhao" alt="Wenhao's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=w3nhao&theme=transparent" alt="Wenhao's GitHub stats">
     </a>
   </p>
 </details>
+
