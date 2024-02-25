@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 -->
 
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=w3nhao&bg_color=ffffff&color=000000&line=000000&point=000000" alt="Wenhao's Activity Graph">
+</p>
+
+
 <details>
   <summary><b>Click to view language stats</b></summary>
   <p align="center">
