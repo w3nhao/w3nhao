@@ -21,4 +21,20 @@ Here are some ideas to get you started:
 -->
 
 
-[![Wenhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=w3nhao)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary><b>Click to view language stats</b></summary>
+  <p align="center">
+    <a href="https://github.com/w3nhao">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3nhao&layout=compact" alt="Top Languages">
+    </a>
+  </p>
+</details>
+
+<details>
+    <summary><b>Click to view stats</b></summary>
+  <p align="center">
+    <a href="https://github.com/w3nhao">
+      <img src="https://github-readme-stats.vercel.app/api?username=w3nhao" alt="Wenhao's GitHub stats">
+    </a>
+  </p>
+</details>
