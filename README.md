@@ -37,6 +37,8 @@ Here are some ideas to get you started:
   </p>
 </details>
 
+
+<!--
 <details>
     <summary><b>Click to view stats</b></summary>
   <p align="center">
@@ -45,4 +47,6 @@ Here are some ideas to get you started:
     </a>
   </p>
 </details>
+
+--!>
 
