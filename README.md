@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🫡 I’m currently a Research Assistant at the [AI4Science Lab](https://github.com/AI4Science-WestlakeU), Westlake University.
-- 🌱 My research focuses on enabling deep learning models to better explore and interact with the external world.
+- 🌱 My research interest focuses on enabling deep learning models to better explore and interact with the external world.
 - 📫 You can reach me at: wenhao.deng@foxmail.com
 
 <!--
