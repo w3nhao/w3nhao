@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🫡 I’m currently a Research Assistant at the [AI4Science Lab](https://github.com/AI4Science-WestlakeU), Westlake University.
-- 🌱 My research interest focuses on enabling deep learning models to better explore and interact with the external world.
+- 😊 I'm a PhD student at the [GAIR lab](https://gair-lab.github.io/members/2025wenhao-deng.html), University of Glasgow, supervised by Prof. Joemon Jose.
+- 🫡 I'm also currently a visting student at the [AI4Science Lab](https://github.com/AI4Science-WestlakeU), Westlake University.
+- 🌱 My research interest focuses on generative solutions for information retrieval, including LLM-based Recommender Systems, Agentic Knowledge Discovering Systems, and more.
 - 📫 You can reach me at: wenhao.deng@foxmail.com
 
 <!--
