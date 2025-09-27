@@ -5,7 +5,7 @@
 - 🌱 My research interest focuses on generative solutions for information retrieval, including LLM-based Recommender Systems, Agentic Knowledge Discovering Systems, and more.
 - 📫 You can reach me at: wenhao.deng@foxmail.com
 
-``There are wavelengths that people cannot see, there are sounds that people cannot hear, and maybe computers have thoughts that people cannot think.  -- Richard Hamming
+``There are wavelengths that people cannot see, there are sounds that people cannot hear, and maybe computers have thoughts that people cannot think.  -- Richard Hamming``
 
 <!--
 **w3nhao/w3nhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
