@@ -7,5 +7,3 @@
 - 🌱 My research interest focuses on generative solutions for information retrieval, including LLM-based Recommender Systems, Agentic Knowledge Discovering Systems, and more.
 - 📫 You can reach me at: wenhao.deng@foxmail.com
 
---!>
-
