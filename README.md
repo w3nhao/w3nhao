@@ -4,7 +4,7 @@
 
 - 😊 I'm currently a PhD student at the [GAIR lab](https://gair-lab.github.io/members/2025wenhao-deng.html), University of Glasgow, supervised by Prof. Joemon Jose.
 - 🫡 I'm also currently a visting student at the [AI4Science Lab](https://github.com/AI4Science-WestlakeU), Westlake University, supervised by Prof. Tailin Wu.
-- 🌱 My research interest focuses on generative solutions for information retrieval, including:
+- 🌱 My research interest focuses on Generative Solutions for Information Retrieval, including:
     -  LLM-based Recommender Systems
     -  Agentic Knowledge Discovering Systems
     -  and more
