@@ -9,4 +9,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working as a Research Assistant in the AI4Science lab, Westlake University, Hangzhou, China.
 
-Contact me: wenhao.deng@foxmail.com
+If agents evolve to handle complete execution, set objectives, and manage society beyond human comprehension, **what is the ultimate role and purpose of humanity in the future?**
+
+
